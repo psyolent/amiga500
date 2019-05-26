@@ -1,4 +1,4 @@
-# amiga500
+# RE-Amiga500
 Amiga 500+ v8a Re-Imagined.
 
 These files are generated from schematics. Not from a printed circuit board via Sprint (like my A2000 I will soon release)
